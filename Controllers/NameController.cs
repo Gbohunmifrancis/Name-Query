@@ -54,6 +54,31 @@ namespace Name_Query.Controllers
             await _nameRepository.DeleteNameAsync(id);
             return Ok();
         }
+
+
+
+        
+
+        public NameController(StudentsContext context)
+        {
+            _contexts = context;
+        }
+
+        // GET api/name/{firstLetter}
+        [HttpGet("{firstLetter}")]
+        public async Task<ActionResult<IEnumerable<NameModel>>> GetByName(string firstLetter)
+        {
+            var result = await _contexts.NameModels.Where(x => x.Name.StartsWith(firstLetter)).ToListAsync();
+
+            if (result == null || !result.Any())
+            {
+                return NotFound();
+            }
+
+            return Ok(result);
+        }
+
+
     }
 
 
