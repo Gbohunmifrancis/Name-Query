@@ -1,0 +1,61 @@
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\appsettings.json
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Name Query.exe
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Name Query.deps.json
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Name Query.runtimeconfig.json
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Name Query.runtimeconfig.dev.json
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Name Query.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\ref\Name Query.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Name Query.pdb
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.csproj.AssemblyReference.cache
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.AssemblyInfoInputs.cache
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.AssemblyInfo.cs
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.csproj.CoreCompileInputs.cache
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\staticwebassets\Name Query.StaticWebAssets.Manifest.cache
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\staticwebassets\Name Query.StaticWebAssets.xml
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\scopedcss\bundle\Name Query.styles.css
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.RazorTargetAssemblyInfo.cache
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.csproj.CopyComplete
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\ref\Name Query.dll
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.pdb
+C:\Users\ISTOP\Desktop\Name-Query-master\obj\Debug\net5.0\Name Query.genruntimeconfig.cache
